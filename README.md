@@ -5,7 +5,8 @@
 # Apps/Project uploaded till yet:
 1) Calculator App (using Flet)
 2) Counter App    (using Flet)
-3) in development...
+3) Todo App       (using Flet)
+4) in development...
 
 
 
