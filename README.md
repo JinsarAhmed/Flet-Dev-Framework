@@ -1,6 +1,14 @@
 # The fastest way to build Flutter apps in Python
 # I Jinsar Ahmed, a tech enthusiast and a software programmer will be working on this new technology and inshallah will be developing some new applications and projects as well... 
 
+
+# Apps/Project uploaded till yet:
+1) Calculator App (using Flet)
+2) Counter App    (using Flet)
+3) in development...
+
+
+
 # > What is Flet?
 Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 
